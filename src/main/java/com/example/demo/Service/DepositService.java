@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.example.demo.Repository.DepositRepository;
-import com.example.demo.Entity.Customer;
+import com.example.demo.ntity.Customer;
 import com.example.demo.Repository.CustomerRepository;
 
 @Service

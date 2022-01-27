@@ -1,11 +1,10 @@
-package com.example.demo.entity;
+package com.example.demo.Entity;
 
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Size;
 
-import com.sun.istack.NotNull;
 @Entity
 @Table(name = "customers")
 public class Customer {
